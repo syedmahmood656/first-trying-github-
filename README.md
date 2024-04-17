@@ -1,3 +1,4 @@
 # first-trying-github-
-my first repo
+my first project
 written by syed mahmood ali
+learning github
